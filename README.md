@@ -1,20 +1,14 @@
-<a href="https://livekit.io/">
-  <img src="./.github/assets/livekit-mark.png" alt="LiveKit logo" width="100" height="100">
-</a>
 
-# Python Voice Agent
 
-<p>
-  <a href="https://cloud.livekit.io/projects/p_/sandbox"><strong>Deploy a sandbox app</strong></a>
-  •
-  <a href="https://docs.livekit.io/agents/overview/">LiveKit Agents Docs</a>
-  •
-  <a href="https://livekit.io/cloud">LiveKit Cloud</a>
-  •
-  <a href="https://blog.livekit.io/">Blog</a>
-</p>
+# Aim of the project 
+<p><b> Develop an AI-driven platform that generates personalized spiritual guidance through astrology and numerology. 
+The system will provide insights, recommendations, and rituals based on user birth details, along with an interactive chatbot
+ for spiritual advice.</b></p>
 
-A basic example of a voice agent using LiveKit and Python.
+# Our solution
+<p> We used an LLM integrated with openai to create personalized user outputs for users whose information would be stored in an astra database as backend.</p>
+
+# How
 
 ## Dev Setup
 
